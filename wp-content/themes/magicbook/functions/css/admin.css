@@ -1,0 +1,12 @@
+/* Admin CSS */
+.vc-settings-tabs,
+.updated.vc_license-activation-notice,
+.vc_settings-tabs a:nth-child(4),
+#vc_settings-general .form-table tr:nth-child(1),
+.rAds span,
+.post-type-post #imagesliees,
+.post-type-page #imagesliees,
+#message.updated a,
+.redux-notice{
+	display:none;
+}

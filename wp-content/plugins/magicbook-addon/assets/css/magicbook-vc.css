@@ -1,0 +1,47 @@
+/*Hide something*/
+.wpb_van_feature_icon,
+.wpb_van_feature_link,
+.wpb_van_feature_target,
+.wpb_van_testimonial_avatar,
+.wpb_van_sicial_field{display:none;}
+
+.icon-wpb-van_portfolios{}
+.icon-wpb-van_blog{}
+.icon-wpb-van_feature{}
+.icon-wpb-van_timeline{}
+.icon-wpb-van_testimonial{}
+
+.wpb_van_portflio_number:before,
+.wpb_van_blog_number:before{content:"Post per page: "}
+
+/*Hide some elements*/
+.post-type-page .wpb_vc_row>.vc_controls>.column_move, 
+.post-type-page .wpb_vc_row_inner>.vc_controls>.column_move, 
+.post-type-page .wpb_vc_section>.vc_controls>.column_move,
+.post-type-page .vc_controls-row .vc_control-row-layout, 
+.post-type-page .vc_controls-row .vc_row_layouts,
+.post-type-page .controls_row .vc_row_layouts a,
+.post-type-page .vc_navbar-inner ul:nth-child(2),
+.post-type-page .vc_navbar-inner ul:nth-child(3),
+.post-type-page .vc_navbar-inner ul:nth-child(5),
+/*.post-type-page .wpb-content-layouts li:nth-child(1),
+.post-type-page .postarea,
+.post-type-page .composer-switch,*/
+.post-type-page #vc_add-new-element,
+.post-type-page #vc_templates-editor-button,
+.post-type-page #vc_no-content-helper,
+.post-type-page .vc_control.column_delete,
+.post-type-page .controls_row .column_add,
+.post-type-page .vc_control.column_clone,
+.post-type-page .vc_control.column_toggle,
+.post-type-page .vc_control.column_edit{display:none;}
+
+.wpb_edit_form_elements  .vc_control.column_delete,
+.wpb_edit_form_elements .vc_control.column_clone,
+.wpb_edit_form_elements .vc_control.column_toggle,
+.wpb_edit_form_elements .vc_control.column_edit{display:block;}
+
+.post-type-page .controls_row .vc_row_layouts a:nth-child(2){
+   display:block;
+}
+

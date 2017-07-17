@@ -1,0 +1,645 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-23 17:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the template
+#. Name of the template
+msgid "Blog Archive"
+msgstr ""
+
+#: 404.php:9
+msgid "Oops! 404"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"No page found! Maybe this page doesn't exist or administrator has already "
+"removed it."
+msgstr ""
+
+#: 404.php:13
+msgid "Back To Homepage"
+msgstr ""
+
+#: archive.php:15 home-blog.php:12
+msgid "Tag: "
+msgstr ""
+
+#: archive.php:17 home-blog.php:14
+msgid "Date: "
+msgstr ""
+
+#: archive.php:19 home-blog.php:16
+msgid "Month: "
+msgstr ""
+
+#: archive.php:21 home-blog.php:18
+msgid "Year: "
+msgstr ""
+
+#: archive.php:23 home-blog.php:20 search.php:12
+msgid "Search: "
+msgstr ""
+
+#: comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:20
+msgid "NO COMMENTS ON THIS POST"
+msgstr ""
+
+#: comments.php:20
+msgid "ONE COMMENT ON THIS POST"
+msgstr ""
+
+#: comments.php:20
+msgid "% COMMENTS ON THIS POST"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgid "To &#8220;%s&#8221;"
+msgstr ""
+
+#: default-menu.php:9
+msgid "Content"
+msgstr ""
+
+#: header-default.php:15
+msgid "Home"
+msgstr ""
+
+#: home-book.php:63
+msgid "Visual Composer Plugin Needed"
+msgstr ""
+
+#: home-book.php:64
+msgid ""
+"<strong>Please install and active the Visual Composer plugin!</strong> The "
+"MagicBook Theme is depend on Visual Composer page builder, or the HTML "
+"structure will be incorrect and the book framework will not work. The pages "
+"will appear as normal until the Visual Composer will be actived."
+msgstr ""
+
+#: home-book.php:95
+msgid "This Page Need to Rebuild"
+msgstr ""
+
+#: home-book.php:96
+msgid ""
+"<strong>Please rebuild this page with Visual Composer page builder!</strong> "
+"The old content does not support the two columns layout, because it is not "
+"include [vc_row] and [vc_column] shortcode which are from Visual Composer, "
+"so you must to edit this page via the Visual Composer and make it from one "
+"column to two columns or just create a new page to instead of this page, "
+"then the pages will appear as normal."
+msgstr ""
+
+#: loop-post.php:12 search.php:25
+msgid "Continue to read"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolios Archive"
+msgstr ""
+
+#: sidebar.php:13
+msgid "back to cover"
+msgstr ""
+
+#: taxonomy-portfolios.php:26
+msgid "Read more"
+msgstr ""
+
+#: functions/admin-functions.php:157
+msgid "Excerpt"
+msgstr ""
+
+#: functions/common-functions.php:140
+msgid "Read More &raquo;"
+msgstr ""
+
+#: functions/common-functions.php:229
+msgid "Page"
+msgstr ""
+
+#: functions/common-functions.php:447 functions/common-functions.php:506
+msgid "No Comments"
+msgstr ""
+
+#: functions/common-functions.php:448 functions/common-functions.php:508
+msgid "1 Comment"
+msgstr ""
+
+#: functions/common-functions.php:449 functions/common-functions.php:504
+msgid "% Comments"
+msgstr ""
+
+#: functions/common-functions.php:450
+msgid "Comments Off"
+msgstr ""
+
+#: functions/common-functions.php:462
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: functions/common-functions.php:489
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: includes/options-init.php:112
+msgid "Section via hook"
+msgstr ""
+
+#: includes/options-init.php:113
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: includes/options-init.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/options-init.php:200 includes/options-init.php:203
+msgid "Current theme preview"
+msgstr ""
+
+#: includes/options-init.php:210
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: includes/options-init.php:211
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/options-init.php:212
+msgid "Tags"
+msgstr ""
+
+#: includes/options-init.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: includes/options-init.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: includes/options-init.php:243
+msgid "Global Setting"
+msgstr ""
+
+#: includes/options-init.php:252
+msgid "Enable The Book Template for Homepage"
+msgstr ""
+
+#: includes/options-init.php:253
+msgid ""
+"After you enable it, the homepage will be a book like page, or it will only "
+"appear the blogroll by default."
+msgstr ""
+
+#: includes/options-init.php:266
+msgid "Open Post With Ajax Method"
+msgstr ""
+
+#: includes/options-init.php:267
+msgid ""
+"After you enable the Ajax method, the single post will be opened without "
+"refresh."
+msgstr ""
+
+#: includes/options-init.php:279
+msgid "Page Flipping Direction"
+msgstr ""
+
+#: includes/options-init.php:280
+msgid "LTR: left to right, RTL: right to left"
+msgstr ""
+
+#: includes/options-init.php:292
+msgid "Remove Default Menu Button"
+msgstr ""
+
+#: includes/options-init.php:293
+msgid "The default menu button is placed at the top right of screen"
+msgstr ""
+
+#: includes/options-init.php:306
+msgid "Upload Your Own Favicon"
+msgstr ""
+
+#: includes/options-init.php:309
+msgid "The favicon will displayed in the front of the browser address bar."
+msgstr ""
+
+#: includes/options-init.php:317
+msgid "Global Footer Text"
+msgstr ""
+
+#: includes/options-init.php:318
+msgid "This footer text will show up in the bottom of all the pages."
+msgstr ""
+
+#: includes/options-init.php:326
+msgid "Copyright"
+msgstr ""
+
+#: includes/options-init.php:327
+msgid "Copyright  text will displayed at the bottom of the side menu."
+msgstr ""
+
+#: includes/options-init.php:337
+msgid "Cover Settings"
+msgstr ""
+
+#: includes/options-init.php:347
+msgid "Book Cover"
+msgstr ""
+
+#: includes/options-init.php:350
+msgid "Recommend size is 370 x 560px"
+msgstr ""
+
+#: includes/options-init.php:351
+msgid "Upload your own picture for the magic book cover"
+msgstr ""
+
+#: includes/options-init.php:363
+msgid "Book Cover for High Resolution"
+msgstr ""
+
+#: includes/options-init.php:366
+msgid "Recommend size is 740 x 1120px"
+msgstr ""
+
+#: includes/options-init.php:367
+msgid "Upload your a double size cover picture for retina screen"
+msgstr ""
+
+#: includes/options-init.php:378
+msgid "Preset Page Background Picture"
+msgstr ""
+
+#: includes/options-init.php:380
+msgid "Select the preset page background picture below"
+msgstr ""
+
+#: includes/options-init.php:389
+msgid "Custom Page Background Picture"
+msgstr ""
+
+#: includes/options-init.php:392
+msgid "Upload your own picture for the page background"
+msgstr ""
+
+#: includes/options-init.php:400
+msgid "Force The Background Picture to Cover The Full Screen"
+msgstr ""
+
+#: includes/options-init.php:401
+msgid "If you want to make the background picture to repeat, please select No."
+msgstr ""
+
+#: includes/options-init.php:413
+msgid "Inverse The Font Color"
+msgstr ""
+
+#: includes/options-init.php:414
+msgid ""
+"The default font color is deep grey, when you click Yes, the font color will "
+"be white."
+msgstr ""
+
+#: includes/options-init.php:425
+msgid "Book Name"
+msgstr ""
+
+#: includes/options-init.php:427
+msgid "Write your book name to instead of MagicBook text"
+msgstr ""
+
+#: includes/options-init.php:434
+msgid "The Font Size of Book Name"
+msgstr ""
+
+#: includes/options-init.php:435
+msgid ""
+"You can go to \"Appearance > Customize\" to change the font of book name."
+msgstr ""
+
+#: includes/options-init.php:436
+msgid "The default size is 3.6em, you can also use px unit."
+msgstr ""
+
+#: includes/options-init.php:444
+msgid "Book LOGO"
+msgstr ""
+
+#: includes/options-init.php:448
+msgid "Upload your own logo to instead of the book name"
+msgstr ""
+
+#: includes/options-init.php:466
+msgid "Book Introduction"
+msgstr ""
+
+#: includes/options-init.php:467
+msgid "About 140 words, only allow to use a, br, em, strong HTML tags."
+msgstr ""
+
+#: includes/options-init.php:468
+msgid "Write a short introduction for your book"
+msgstr ""
+
+#: includes/options-init.php:475
+msgid "Button Text"
+msgstr ""
+
+#: includes/options-init.php:477
+msgid "The default text is Read me"
+msgstr ""
+
+#: includes/options-init.php:484
+msgid "Preset Loader Pictures"
+msgstr ""
+
+#: includes/options-init.php:486
+msgid "Select a loader picture below"
+msgstr ""
+
+#: includes/options-init.php:524
+msgid "Blog Page"
+msgstr ""
+
+#: includes/options-init.php:534
+msgid "Post Meta Information"
+msgstr ""
+
+#: includes/options-init.php:535
+msgid "Select the post meta information which you want to display"
+msgstr ""
+
+#: includes/options-init.php:554
+msgid "Enable The Comment In Post"
+msgstr ""
+
+#: includes/options-init.php:555
+msgid ""
+"There are three post type below, you can enable the comment for both of them "
+"or specific one or two item."
+msgstr ""
+
+#: includes/options-init.php:572
+msgid "Show The Featured Cover Image"
+msgstr ""
+
+#: includes/options-init.php:573
+msgid "The featured cover image will be displayed in the blog archive."
+msgstr ""
+
+#: includes/options-init.php:585
+msgid "Custom Code"
+msgstr ""
+
+#: includes/options-init.php:595
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/options-init.php:596
+msgid "Add your own custom CSS here."
+msgstr ""
+
+#: includes/options-init.php:603
+msgid "Custom Javascript"
+msgstr ""
+
+#: includes/options-init.php:605
+msgid "Add your own custom Javascript code here."
+msgstr ""
+
+#: includes/options-init.php:612
+msgid "Additionals"
+msgstr ""
+
+#: includes/options-init.php:622
+msgid "Head Code"
+msgstr ""
+
+#: includes/options-init.php:623
+msgid "You can add Google Analysis,meta info and link the CSS/JS files here."
+msgstr ""
+
+#: includes/options-init.php:630
+msgid "Footer Code"
+msgstr ""
+
+#: includes/options-init.php:631
+msgid "You can add some additional code to the footer of your page."
+msgstr ""
+
+#: includes/options-init.php:640
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: includes/options-init.php:641
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: includes/options-init.php:642
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: includes/options-init.php:646
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: includes/options-init.php:653 includes/options-init.php:700
+msgid "Documentation"
+msgstr ""
+
+#: includes/options-init.php:666
+msgid "Import / Export"
+msgstr ""
+
+#: includes/options-init.php:667
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: includes/options-init.php:686
+msgid "Theme Information"
+msgstr ""
+
+#: includes/options-init.php:687
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: includes/options-init.php:711
+msgid "Theme Information 1"
+msgstr ""
+
+#: includes/options-init.php:712 includes/options-init.php:718
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: includes/options-init.php:717
+msgid "Theme Information 2"
+msgstr ""
+
+#: includes/options-init.php:722
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: includes/theme-functions.php:82
+msgid "By"
+msgstr ""
+
+#: includes/theme-functions.php:89 includes/theme-functions.php:91
+msgid "in"
+msgstr ""
+
+#: includes/theme-init.php:40
+msgctxt "Tulpen One font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/theme-init.php:41
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/theme-init.php:42
+msgctxt "Arimo: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/theme-init.php:43
+msgctxt "Raleway: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/theme-init.php:44
+msgctxt "Marvel: on or off"
+msgid "on"
+msgstr ""
+
+#: vc_extends/vc_extended.php:49
+msgid "Cover Picutre"
+msgstr ""
+
+#: vc_extends/vc_extended.php:52
+msgid "No"
+msgstr ""
+
+#: vc_extends/vc_extended.php:53
+msgid "Yes"
+msgstr ""
+
+#: vc_extends/vc_extended.php:61
+msgid "Font Size"
+msgstr ""
+
+#: vc_extends/vc_extended.php:64
+msgid "Big"
+msgstr ""
+
+#: vc_extends/vc_extended.php:65
+msgid "Medium"
+msgstr ""
+
+#: vc_extends/vc_extended.php:66
+msgid "Small"
+msgstr ""
+
+#: includes/customize/customize.php:7
+msgid "Fonts"
+msgstr ""
+
+#: includes/demo/demo-importer.php:10 includes/demo/demo-importer.php:23
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:16
+msgid "portfolio type"
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:23
+msgid "After you disabled the slideshow, all images will be laid end to end."
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:24
+msgid "Disable the slideshow in this portfolio "
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:32
+msgid "Display full width Slider."
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:38
+msgid "How to get Youtube/Vimeo code?"
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:39
+msgid "Youtube or Vimeo Iframe Embed Code"
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:45
+msgid "Example: How to get SoundCloud code?"
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:45
+msgid "Go to SoundCloud now!"
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:46
+msgid "SoundCloud or MixCloud Iframe Embed Code"
+msgstr ""
+
+#: includes/extensions/portfolio-settings.php:122
+msgid "Portfolio Setting"
+msgstr ""
+
+#. Name of the theme
+msgid "MagicBook"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"MagicBook is a real 3D flip book template with unlimited page number,cool 3D "
+"menu, responsive feature and easy customization etc. Designed by KevinStudio "
+"and WordPress developed by ThemeVan."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.themevan.com/magicbook"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeVan"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.themevan.com"
+msgstr ""

@@ -1,0 +1,280 @@
+V1.0 - 2014.09.16
+  - Released
+
+V1.01 - 2014.09.17
+  - Fixed a small issue on mobile version.
+  - Fixed small small CSS issues.
+  - Update Visual Composer to V4.3.4
+
+  Changed files
+  - js/jquerypp.custom.js
+  - css/main.css
+  - style.css
+
+V1.02 - 2014.11.07
+  - Changed the open method for social media link.
+  - Added "Read me" button text field in Magicbook Options.
+  - Added an new font option to change the body text font in customize page.
+  - Added "Home" button to the separate pages.
+  - Fixed the display problem on iPad portrait mode.
+
+  Changed files
+  - js/custom-for-wp.js
+  - admin/options-init.php
+  - includes/customize/customize.php
+  - home-book.php
+  - header-default.php
+  - css/layout.css
+  - vc_extends/vc_custom.css
+  - style.css
+
+V1.03 - 2014.12.02
+  - Fixed the category option of "Magicbook blog" block doesn't work.
+  - Fixed the category option of "Magicbook portfolios" block doesn't work.
+  - Improved the blog and portfolio post content loading speed when you open them.
+  - Improved the responsive issue for the separate page. 
+  - Improved the css issue for the cover page on mobile.
+  - Added the global footer text option.
+  - Fixed the body font option doesn't work in Customizer.
+  
+  Changed files
+  - vc_extends/custom_blog.php 
+  - vc_extends/custom_portfolios.php
+  - single.php
+  - single-portfolio.php
+  - js/custom-for-wp.js
+  - css/responsive.css
+  - admin/options-init.php
+  - includes/customize/customize.php
+  
+V1.04 - 2014.12.04
+  - Fixed portfolio slideshow doesn't work.
+  - Added the portfolio image gallery feature for the lightbox effect.
+  
+  Changed files
+  - single-portfolio.php
+  - js/custom-for-wp.js
+  - style.css
+  
+V1.05 - 2014.12.31
+  - Removed the black overlay of the cover picture on mobile device.
+  - Fixed a small bug of the timeline VC block.
+  - Fixed the menu text doesn't display on the latest version of Firefox.
+  - Fixed a scrollbar bug.
+  - Updated Visual Composer to V4.3.5
+  
+  Changed files
+  - vc_extends/vc_custom.css
+  - vc_extends/custom_timeline.php
+  - css/component.css
+  - js/scripts.js
+
+V1.06 - 2015.05.10
+  - Updated Redux Framework and TGM Plugin Activation class for XSS vulnerability.
+  - Added left arrow to close the book in the first page corner.
+  - Fixed the close comment option doesn’t work.
+  - Updated Visual Composer to the latest version.
+  - Improved the page which contains a big picture non-scrollable.
+  
+  Changed files
+  - admin/redux_framework
+  - functions/class-tgm-plugin-activation.php
+  - js/script.js
+  - js/custom-for-wp.js
+  - single.php
+  - single-portfolio.php
+  - page.php
+  - style.css
+
+V1.07 - 2015.06.26
+  - Added custom flipover link feature.
+  - Added directly open the book page by URL hash.
+  - Fixed the space bar doesn’t work in the input or textarea.
+  - Fixed some responsive CSS.
+  - Fixed the next arrow can’t turn the page issue on mobile.
+  - Added a menu button and side menu list in the cover page.
+  - Fixed the separate page is blank issue.
+  - Updated the Visual Composer to the latest version and fixed the XSS vulnerability in prettyPhoto.
+
+  Changed files
+  - js/script.js
+  - js/custom-for-wp.js
+  - css/responsive.css
+  - page.php
+  - index.php
+  - home-book.php
+  - style.css
+
+V1.08 - 2015.08.28
+  - Added lightbox open method for the portfolios.
+  - Fixed the side menu can’t be hidden in safari browser.
+  - Fixed the book was often stucked.
+  - Updated the perfect scrollbar plugin.
+  - Fixed the page wasn't scroll to top when turn the page on mobile device.
+
+  Changed files
+  - css/main.css
+  - vc_extends/custom_portfolios.php
+  - css/perfect-scrollbar.min.css
+  - js/perfect-scrollbar.min.js
+  - js/jquery.bookblock.js
+  - style.css
+
+V1.09 - 2015.10.06
+  - Fixed the flipover link doesn’t work for sub menu item.
+  - Updated Visual Composer to V4.7.4 for XSS vulnerability issue.
+
+  Changed files
+  - functions/plugins/js_composer.zip
+  - js/script.js
+  - style.css
+  
+V1.10 - 2015.11.30
+  - Fixed the scrollbar doesn't appeared in the menu container.
+  - Fixed some small CSS issues.
+  - Added a new option to remove the default menu button from the top right of screen.
+  - Added a new option to change the page flipping direction.
+  - Updated Visual Composer to V4.8.1
+
+  Changed files
+  - functions/plugins/js_composer.zip
+  - functions/admin-functions.php
+  - admin/options-init.php
+  - css/component.css
+  - css/responsive.css
+  - vc_extends/custom_portfolios.php
+  - functions.php
+  - index.php
+  - js/script.js
+  - style.css
+
+V1.11 - 2016.01.23
+  - Fixed the progress bar in Visual Composer can’t be edited.
+  - Fixed the multiple portfolios page doesn’t work properly.
+  - Fixed the book cover disappeared issue when user close the book through the first page.
+  - Added open menu by custom link.(e.g. <a href=“#”class=“open-menu”>Menu</a>)
+  - Added the default menu into the separate page, single post.
+  - updated Visual Composer to v4.9.2
+
+  Changed files
+  - vc_extends/vc_extends.css
+  - vc_extends/custom_portfolios.php
+  - js/jquery.isotope.min.js
+  - js/script.js
+  - js/menu.js
+  - functions/plugins.php
+  - functions/js/admin_scripts.js
+  - sidebar.php
+  - functions.php
+  - index.php
+  - page.php
+  - header_default.php
+  - footer_default.php
+  - default-menu.php
+  - style.css
+
+V1.12 - 2016.04.15
+  - Updated Redux Framework
+  - Updated Visual Composer
+
+  Changed Files
+  - admin/redux-framework
+  - functions/plugins/js_composer.zip
+  - style.css
+
+V1.12.1 - 2016.04.24
+ - Fixed sometimes the book is hidden on firefox.
+ - Updated Visual Composer to  V4.11.2.1
+
+ Changed Files
+ - css/component.css
+ - functions/plugins/js_composer.zip
+ - style.css
+
+V1.13
+ - Fixed the #hash URL was linked to the wrong page.
+ - Fixed some small CSS issue to compatible with Visual Composer 4.12.1
+ - Updated Redux framework to the latest version.
+ - Updated Visual Composer to 4.12.1
+ - Added one click demo import feature.
+ - Appended cover picture option to single image element in Visual Composer.
+ - Appended font size option to separate text element in Visual Composer.
+ - Improved the page loading speed.
+
+ Changed Files
+ - js/script.js
+ - js/jquery.imagesLoaded.min.js
+ - vc_extends/vc_extends.php
+ - vc_extends/vc_extends.css
+ - vc_extends/vc_custom.css
+ - vc_extends/vc_single_image.php
+ - vc_extends/vc_text_separator.php
+ - admin/redux-framework
+ - functions/plugins.php
+ - includes/theme-init.php
+ - includes/demo
+ - css/main.css
+ - functions.php
+ - style.css
+
+V1.14
+ - Made all PHP functions pluggable.
+ - Updated Visual Composer to 5.0
+
+ Changed Files
+ - vc_extends/vc_extends.php
+ - vc_extends/custom_blog.php
+ - vc_extends/custom_portfolios.php
+ - functions/plugins/plugins.php
+ - functions/admin-functions.php
+ - includes/theme-init.php
+ - includes/theme-functions.php
+ - style.css
+
+V1.14.1
+ - Updated Visual Composer to 5.0.1
+
+ Changed Files
+ - functions/plugins/plugins.php
+ - functions/plugins/js_composer.zip
+ - vc_extends/vc_extends.php
+ - style.css
+
+V1.15
+- Added full width slider for portfolio post.
+- Added IMDB to social media list.
+- Updated vc_row.php template
+- Updated Visual Composer to 5.1
+- Updated Font Awesome to 4.7
+- Fixed some PHP warnings.
+- Fixed the Ajax comment function doesn’t work in the latest version of WordPress.
+- Changed text domain to 'magicbook'
+
+Changed Files
+ - functions/plugins/plugins.php
+ - functions/js/admin_script.js
+ - includes/theme-functions.php
+ - includes/extensions/portfolio-type.php
+ - vc_extends/custom_social_media.php
+ - font-awesome
+ - single.php
+ - single-portfolio.php
+ - css/main.css
+ - js/custom-for-wp.js
+ - style.css
+
+V1.16
+- Fixed the preset background picture doesn’t display in the dropdown list option.
+- Fixed a flipping bug.
+- Fixed a flipping direction bug.
+- Fixed fashion demo data was missing the options configuration.
+- Updated Visual Composer to 5.1.1
+- Updated MagicBook Add-on to 1.0.2
+
+Changed Files
+ - includes/options-init.php
+ - functions/plugins/plugins.php
+ - css/main.css
+ - js/script.js
+ - style.css
+

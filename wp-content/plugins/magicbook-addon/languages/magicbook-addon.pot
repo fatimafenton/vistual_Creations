@@ -1,0 +1,373 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-23 17:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: magicbook-addon.php:96
+msgid "Portfolios"
+msgstr ""
+
+#: magicbook-addon.php:97
+msgid "All Portfolios"
+msgstr ""
+
+#: magicbook-addon.php:98
+msgid "Add Portfolio"
+msgstr ""
+
+#: magicbook-addon.php:99
+msgid "Add New Portfolio"
+msgstr ""
+
+#: magicbook-addon.php:100
+msgid "Edit Portfolio"
+msgstr ""
+
+#: magicbook-addon.php:101
+msgid "Add New"
+msgstr ""
+
+#: magicbook-addon.php:102
+msgid "Browse Portfolio"
+msgstr ""
+
+#: magicbook-addon.php:103
+msgid "Search Portfolio"
+msgstr ""
+
+#: magicbook-addon.php:104
+msgid "No portfolios found."
+msgstr ""
+
+#: magicbook-addon.php:105
+msgid "No portfolios found in trash."
+msgstr ""
+
+#: magicbook-addon.php:132 magicbook-addon.php:133
+msgid "Portfolio category"
+msgstr ""
+
+#: magicbook-addon.php:134
+msgid "Search category"
+msgstr ""
+
+#: magicbook-addon.php:135
+msgid "All portfolio categories"
+msgstr ""
+
+#: magicbook-addon.php:136 magicbook-addon.php:137
+msgid "Parent portfolio category"
+msgstr ""
+
+#: magicbook-addon.php:138
+msgid "Edit category"
+msgstr ""
+
+#: magicbook-addon.php:139
+msgid "Update category"
+msgstr ""
+
+#: magicbook-addon.php:140
+msgid "Add new category"
+msgstr ""
+
+#: magicbook-addon.php:141
+msgid "New category name"
+msgstr ""
+
+#: shortcodes/blog.php:3
+msgid "MagicBook Blog"
+msgstr ""
+
+#: shortcodes/blog.php:7 shortcodes/feature.php:7 shortcodes/portfolios.php:7
+#: shortcodes/social_media.php:7 shortcodes/testimonial.php:7
+#: shortcodes/timeline.php:7
+msgid "MagicBook"
+msgstr ""
+
+#: shortcodes/blog.php:17
+msgid "Number of posts to show"
+msgstr ""
+
+#: shortcodes/blog.php:20 shortcodes/portfolios.php:20
+msgid "Number of posts you want to display."
+msgstr ""
+
+#: shortcodes/blog.php:27 shortcodes/portfolios.php:37
+msgid "From which categories?"
+msgstr ""
+
+#: shortcodes/blog.php:30
+msgid ""
+"If you leave it empty, it will display the posts from all categories, Please "
+"note, you should add category slug here, please separate multiple category "
+"slugs with English commas,for example: slug-1,slug-2 "
+msgstr ""
+
+#: shortcodes/blog.php:75
+msgid "Continue to read"
+msgstr ""
+
+#: shortcodes/feature.php:3
+msgid "MagicBook Feature"
+msgstr ""
+
+#: shortcodes/feature.php:16
+msgid "Feature title"
+msgstr ""
+
+#: shortcodes/feature.php:19
+msgid "Feature item title."
+msgstr ""
+
+#: shortcodes/feature.php:25
+msgid "Feature icon"
+msgstr ""
+
+#: shortcodes/feature.php:28
+msgid "Upload the avatar image here."
+msgstr ""
+
+#: shortcodes/feature.php:34
+msgid "Feature Content"
+msgstr ""
+
+#: shortcodes/feature.php:37 shortcodes/testimonial.php:47
+#: shortcodes/timeline.php:47
+msgid "Short introduction."
+msgstr ""
+
+#: shortcodes/feature.php:43
+msgid "Icon Link"
+msgstr ""
+
+#: shortcodes/feature.php:46
+msgid "Don't forget add 'http://' in front of the link."
+msgstr ""
+
+#: shortcodes/feature.php:52
+msgid "Link target"
+msgstr ""
+
+#: shortcodes/feature.php:55
+msgid ""
+"Open the link in new tab/window or not, select '_blank' - open in new window,"
+" select '_self' - open in same window"
+msgstr ""
+
+#: shortcodes/portfolios.php:3
+msgid "MagicBook Portfolios"
+msgstr ""
+
+#: shortcodes/portfolios.php:17
+msgid "Number of portfolios to show"
+msgstr ""
+
+#: shortcodes/portfolios.php:27
+msgid "Open Method"
+msgstr ""
+
+#: shortcodes/portfolios.php:30
+msgid "Open the portfolio post as lightbox or ajax."
+msgstr ""
+
+#: shortcodes/portfolios.php:40
+msgid ""
+"If you leave it empty, it will display the portfolios from all categories, "
+"Please note, you should add category slug here, please separate multiple "
+"category slugs with English commas,for example: slug-1,slug-2 "
+msgstr ""
+
+#: shortcodes/social_media.php:3
+msgid "MagicBook Social Media"
+msgstr ""
+
+#: shortcodes/social_media.php:17
+msgid "FaceBook URL"
+msgstr ""
+
+#: shortcodes/social_media.php:20 shortcodes/social_media.php:30
+#: shortcodes/social_media.php:40 shortcodes/social_media.php:50
+#: shortcodes/social_media.php:60 shortcodes/social_media.php:70
+#: shortcodes/social_media.php:80 shortcodes/social_media.php:90
+#: shortcodes/social_media.php:100 shortcodes/social_media.php:110
+#: shortcodes/social_media.php:120 shortcodes/social_media.php:130
+#: shortcodes/social_media.php:140 shortcodes/social_media.php:150
+#: shortcodes/social_media.php:160 shortcodes/social_media.php:170
+#: shortcodes/social_media.php:180 shortcodes/social_media.php:190
+#: shortcodes/social_media.php:210
+msgid "Do not miss http://"
+msgstr ""
+
+#: shortcodes/social_media.php:27
+msgid "Twitter URL"
+msgstr ""
+
+#: shortcodes/social_media.php:37
+msgid "Dribbble URL"
+msgstr ""
+
+#: shortcodes/social_media.php:47
+msgid "Flickr URL"
+msgstr ""
+
+#: shortcodes/social_media.php:57
+msgid "Instagram URL"
+msgstr ""
+
+#: shortcodes/social_media.php:67
+msgid "Google Plus URL"
+msgstr ""
+
+#: shortcodes/social_media.php:77
+msgid "LinkedIn URL"
+msgstr ""
+
+#: shortcodes/social_media.php:87
+msgid "Tumblr URL"
+msgstr ""
+
+#: shortcodes/social_media.php:97
+msgid "Deviantart URL"
+msgstr ""
+
+#: shortcodes/social_media.php:107
+msgid "Behance URL"
+msgstr ""
+
+#: shortcodes/social_media.php:117
+msgid "Pinterest URL"
+msgstr ""
+
+#: shortcodes/social_media.php:127
+msgid "Youtube URL"
+msgstr ""
+
+#: shortcodes/social_media.php:137
+msgid "Vimeo URL"
+msgstr ""
+
+#: shortcodes/social_media.php:147
+msgid "Lastfm URL"
+msgstr ""
+
+#: shortcodes/social_media.php:157
+msgid "Yelp URL"
+msgstr ""
+
+#: shortcodes/social_media.php:167
+msgid "GitHub URL"
+msgstr ""
+
+#: shortcodes/social_media.php:177
+msgid "VK URL"
+msgstr ""
+
+#: shortcodes/social_media.php:187
+msgid "IMDB URL"
+msgstr ""
+
+#: shortcodes/social_media.php:197
+msgid "Email Address"
+msgstr ""
+
+#: shortcodes/social_media.php:200
+msgid "Do not miss \"mailto:\", e,g, mailto:abc@def.com"
+msgstr ""
+
+#: shortcodes/social_media.php:207
+msgid "RSS URL"
+msgstr ""
+
+#: shortcodes/testimonial.php:3
+msgid "MagicBook Testimonial"
+msgstr ""
+
+#: shortcodes/testimonial.php:16
+msgid "Avatar"
+msgstr ""
+
+#: shortcodes/testimonial.php:19
+msgid "Avatar need to be square."
+msgstr ""
+
+#: shortcodes/testimonial.php:26
+msgid "Name"
+msgstr ""
+
+#: shortcodes/testimonial.php:29
+msgid "Your client's name."
+msgstr ""
+
+#: shortcodes/testimonial.php:35
+msgid "Job"
+msgstr ""
+
+#: shortcodes/testimonial.php:38
+msgid "Your client's job position"
+msgstr ""
+
+#: shortcodes/testimonial.php:44 shortcodes/timeline.php:44
+msgid "Content"
+msgstr ""
+
+#: shortcodes/timeline.php:3
+msgid "MagicBook Timeline"
+msgstr ""
+
+#: shortcodes/timeline.php:16
+msgid "Time"
+msgstr ""
+
+#: shortcodes/timeline.php:19
+msgid "For example, 2011-2012"
+msgstr ""
+
+#: shortcodes/timeline.php:26
+msgid "Title"
+msgstr ""
+
+#: shortcodes/timeline.php:29
+msgid "Item title."
+msgstr ""
+
+#: shortcodes/timeline.php:35
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/timeline.php:38
+msgid "Small subtitle below the first title."
+msgstr ""
+
+#. Name of the plugin
+msgid "MagicBook Addon"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"MagicBook Addon includes some shortcodes and modules for MagicBook theme."
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://themeforest.net/item/magicbook-a-3d-flip-book-wordpress-theme/8808169"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeVan"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.themevan.com"
+msgstr ""
